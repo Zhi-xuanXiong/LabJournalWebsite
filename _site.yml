@@ -5,9 +5,9 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Capstone Papers"
-      href: Capstone Papers.html
+      href: Capstone-Papers.html
     - text: "Learn R"
-      href: Learn R.html
+      href: Learn-R.html
     - text: "Contact Me"
-      href: Contact Me.html
+      href: Contact-Me.html
 output_dir: "docs"
