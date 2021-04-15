@@ -1,6 +1,6 @@
-name: "Self-Curating-Gallery"
+name: "Self-Curating-Gallery(By Zhi-xuanXiong)"
 navbar:
-  title: "Self-Curating-Gallery"
+  title: "Self-Curating-Gallery(By Zhi-xuanXiong)"
   left:
     - text: "Home"
       href: index.html
