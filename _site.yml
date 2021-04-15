@@ -1,13 +1,13 @@
 name: "Self-Curating-Gallery(By Zhi-xuanXiong)"
 navbar:
-  title: "Self-Curating-Gallery(By Zhi-xuanXiong)"
+  title: "Self-Curating-Gallery"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
-      href: Journal.html
-    - text: "Links"
-      href: Links.html
+    - text: "Capstone Papers"
+      href: Capstone Papers.html
+    - text: "Learn R"
+      href: Learn R.html
     - text: "Contact Me"
       href: Contact Me.html
 output_dir: "docs"
