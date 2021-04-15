@@ -1,6 +1,6 @@
-name: "MyLabJournal"
+name: "Self-Curating-Gallery"
 navbar:
-  title: "MyLabJournal"
+  title: "Self-Curating-Gallery"
   left:
     - text: "Home"
       href: index.html
