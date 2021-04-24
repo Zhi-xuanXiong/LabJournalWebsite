@@ -10,6 +10,4 @@ navbar:
       href: Learn-R.html
     - text: "Contact Me"
       href: Contact-Me.html
-    - text: "互评看这里"
-      href: Week 01.html
 output_dir: "docs"
